@@ -1,0 +1,11 @@
+<application>
+  <component name="CodeFoldingSettings">
+    <option name="COLLAPSE_IMPORTS" value="false" />
+  </component>
+  <component name="JSCodeFoldingSettings">
+    <option name="collapseJSImports" value="false" />
+    <option name="collapseTSImports" value="false" />
+    <option name="COLLAPSE_JS_IMPORTS" value="false" />
+    <option name="COLLAPSE_TS_IMPORTS" value="false" />
+  </component>
+</application>
