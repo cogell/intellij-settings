@@ -6,6 +6,8 @@
   <action id="Diff.FocusOppositePane" />
   <action id="Diff.FocusOppositePaneAndScroll" />
   <action id="EditorSelectWord" />
+  <action id="GotoTest" />
+  <action id="Images.ShowThumbnails" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl right" />
     <keyboard-shortcut first-keystroke="ctrl tab" />
@@ -13,6 +15,9 @@
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="ctrl left" />
     <keyboard-shortcut first-keystroke="shift ctrl tab" />
+  </action>
+  <action id="ReopenClosedTab">
+    <keyboard-shortcut first-keystroke="shift meta t" />
   </action>
   <action id="Switcher" />
 </keymap>
