@@ -3,8 +3,8 @@
     <ignoreFiles list="*.hprof;*.o;*.obj;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping ext="pcss" type="CSS" />
-      <mapping ext="tpl" type="HTML" />
       <mapping ext="gtpl" type="HTML" />
+      <mapping ext="tpl" type="HTML" />
       <mapping pattern=".stylelintrc" type="JSON" />
       <mapping ext="bashrc" type="JSON" />
       <mapping pattern="package-deps-lock" type="JavaScript" />
