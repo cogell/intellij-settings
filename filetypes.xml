@@ -15,6 +15,7 @@
       <mapping pattern="TODO" type="PLAIN_TEXT" />
       <mapping pattern="package-deps-lock.js" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
+      <mapping pattern="notes" type="PLAIN_TEXT" />
       <mapping pattern="SECRET" type="PLAIN_TEXT" />
       <mapping pattern=".flowconfig" type="PLAIN_TEXT" />
       <mapping pattern=".docker-ignore" type="PLAIN_TEXT" />
