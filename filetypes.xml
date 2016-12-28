@@ -9,13 +9,14 @@
       <mapping ext="bashrc" type="JSON" />
       <mapping pattern="package-deps-lock" type="JavaScript" />
       <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping pattern="make" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".conventional-changelog-lintrc" type="PLAIN_TEXT" />
       <mapping pattern="TODO" type="PLAIN_TEXT" />
       <mapping pattern="package-deps-lock.js" type="PLAIN_TEXT" />
-      <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
       <mapping pattern="notes" type="PLAIN_TEXT" />
+      <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
       <mapping pattern="SECRET" type="PLAIN_TEXT" />
       <mapping pattern=".flowconfig" type="PLAIN_TEXT" />
       <mapping pattern=".docker-ignore" type="PLAIN_TEXT" />
