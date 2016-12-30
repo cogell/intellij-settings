@@ -14,6 +14,7 @@
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".conventional-changelog-lintrc" type="PLAIN_TEXT" />
       <mapping pattern="TODO" type="PLAIN_TEXT" />
+      <mapping pattern="SEED_COMMIT" type="PLAIN_TEXT" />
       <mapping pattern="package-deps-lock.js" type="PLAIN_TEXT" />
       <mapping pattern=".gitmessagetemplate" type="PLAIN_TEXT" />
       <mapping pattern="notes" type="PLAIN_TEXT" />
