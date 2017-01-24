@@ -8,7 +8,17 @@
   <action id="Diff.FocusOppositePaneAndScroll" />
   <action id="Diff.ShowDiff" />
   <action id="EditorDuplicate" />
+  <action id="EditorScrollDown" />
+  <action id="EditorScrollUp" />
   <action id="EditorSelectWord" />
+  <action id="EditorTextEnd">
+    <keyboard-shortcut first-keystroke="meta end" />
+    <keyboard-shortcut first-keystroke="meta down" />
+  </action>
+  <action id="EditorTextStart">
+    <keyboard-shortcut first-keystroke="meta home" />
+    <keyboard-shortcut first-keystroke="meta up" />
+  </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.NewFolder" />
   <action id="FindInPath">
