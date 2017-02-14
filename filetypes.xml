@@ -23,6 +23,7 @@
       <mapping pattern="SECRET" type="PLAIN_TEXT" />
       <mapping pattern=".flowconfig" type="PLAIN_TEXT" />
       <mapping pattern=".docker-ignore" type="PLAIN_TEXT" />
+      <mapping pattern=".babelr" type="PLAIN_TEXT" />
       <mapping ext="woff" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
       <mapping pattern="auth" type="Stylus" />
