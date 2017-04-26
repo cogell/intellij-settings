@@ -1,0 +1,23 @@
+<application>
+  <component name="ApplicationTasksOptions">
+    <TaskOptions isEnabled="true">
+      <option name="arguments" value="--single-quote --trailing-comma all --write $FilePath$" />
+      <option name="checkSyntaxErrors" value="false" />
+      <option name="description" />
+      <option name="exitCodeBehavior" value="ERROR" />
+      <option name="fileExtension" value="js" />
+      <option name="immediateSync" value="true" />
+      <option name="name" value="Prettify" />
+      <option name="output" value="" />
+      <option name="outputFilters">
+        <array />
+      </option>
+      <option name="outputFromStdout" value="false" />
+      <option name="program" value="$USER_HOME$/.nvm/versions/node/v6.9.3/bin/prettier" />
+      <option name="scopeName" value="All Places" />
+      <option name="trackOnlyRoot" value="false" />
+      <option name="workingDir" value="$ProjectFileDir$" />
+      <envs />
+    </TaskOptions>
+  </component>
+</application>
