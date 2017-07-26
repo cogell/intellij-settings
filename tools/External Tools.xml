@@ -1,5 +1,5 @@
 <toolSet name="External Tools">
-  <tool name="prettier" description="Automatically formats javascript code" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+  <tool name="prettier" description="Automatically formats javascript code" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="true" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="prettier" />
       <option name="PARAMETERS" value="--write --single-quote --trailing-comma all $FilePathRelativeToProjectRoot$" />
