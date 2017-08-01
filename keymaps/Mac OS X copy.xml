@@ -83,5 +83,8 @@
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
   <action id="Switcher" />
+  <action id="Tool_External Tools_prettier">
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
   <action id="XDebugger.CopyWatch" />
 </keymap>
