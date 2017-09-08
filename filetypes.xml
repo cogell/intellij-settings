@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping ext="pcss" type="CSS" />
       <removed_mapping pattern="Dockerfile" type="Dockerfile" />
+      <mapping pattern=".gitignore_global" type="Git file" />
       <mapping ext="tpl" type="HTML" />
       <mapping ext="gtpl" type="HTML" />
       <mapping pattern="stylelint-styled-components" type="JSON" />
