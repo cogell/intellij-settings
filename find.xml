@@ -26,6 +26,9 @@
       <mask>*.cs</mask>
       <mask>*.css</mask>
       <mask>*.scss</mask>
+      <mask>*.p</mask>
+      <mask>*.pn</mask>
+      <mask>*.png</mask>
     </recentFileMasks>
   </component>
 </application>
