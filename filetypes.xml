@@ -5,6 +5,7 @@
       <mapping pattern="products" type="PLAIN_TEXT" />
       <mapping pattern="listing3" type="PLAIN_TEXT" />
       <mapping pattern=".env.sample" type="PLAIN_TEXT" />
+      <mapping pattern=".env.test" type="PLAIN_TEXT" />
       <mapping ext="gotest" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
