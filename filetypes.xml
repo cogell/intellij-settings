@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="md" type=".env file" />
       <mapping ext="config" type="Erlang" />
       <mapping pattern="products" type="PLAIN_TEXT" />
       <mapping pattern="listing3" type="PLAIN_TEXT" />
