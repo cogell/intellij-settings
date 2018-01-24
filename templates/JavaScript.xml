@@ -10,4 +10,8 @@
     <variable name="OBJECT" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="FILE" expression="" defaultValue="" alwaysStopAt="true" />
   </template>
+  <template name="import" value="import $package$ from '$packageString$';" description="import with nice tabbing" toReformat="false" toShortenFQNames="true">
+    <variable name="package" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="packageString" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
 </templateSet>
