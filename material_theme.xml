@@ -1,13 +1,15 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="version" value="1.6.0.4" />
-    <option name="selectedTheme" value="MONOKAI" />
+    <option name="selectedTheme" value="ARC_DARK" />
+    <option name="highlightColor" value="80cbc4" />
     <option name="isContrastMode" value="true" />
-    <option name="accentColor" value="ff4081" />
-    <option name="useMaterialIcons" value="false" />
+    <option name="accentColor" value="e91e63" />
+    <option name="useProjectViewDecorators" value="false" />
     <option name="compactSidebar" value="true" />
-    <option name="tabsHeight" value="50" />
+    <option name="tabsHeight" value="25" />
     <option name="isCompactStatusBar" value="true" />
-    <option name="arrowsStyle" value="Plus-Minus" />
+    <option name="customSidebarHeight" value="22" />
+    <option name="darkTitleBar" value="true" />
   </component>
 </application>
