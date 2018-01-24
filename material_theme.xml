@@ -3,11 +3,12 @@
     <option name="version" value="1.6.0.4" />
     <option name="selectedTheme" value="MONOKAI" />
     <option name="isContrastMode" value="true" />
-    <option name="isMaterialDesign" value="false" />
+    <option name="accentColor" value="ff4081" />
     <option name="useMaterialIcons" value="false" />
     <option name="compactSidebar" value="true" />
+    <option name="statusBarTheme" value="false" />
     <option name="tabsHeight" value="50" />
     <option name="isCompactStatusBar" value="true" />
-    <option name="upperCaseTabs" value="true" />
+    <option name="arrowsStyle" value="Plus-Minus" />
   </component>
 </application>
