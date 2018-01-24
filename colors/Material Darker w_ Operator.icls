@@ -4,7 +4,7 @@
     <property name="created">2018-01-24T12:25:06</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.3.2.0.0</property>
-    <property name="modified">2018-01-24T12:26:23</property>
+    <property name="modified">2018-01-24T13:59:53</property>
     <property name="originalScheme">_@user_Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -613,7 +613,7 @@
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="4a4a4a" />
+        <option name="FOREGROUND" value="939393" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -724,7 +724,7 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="4a4a4a" />
+        <option name="FOREGROUND" value="939393" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>

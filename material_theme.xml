@@ -11,5 +11,6 @@
     <option name="isCompactStatusBar" value="true" />
     <option name="customSidebarHeight" value="22" />
     <option name="darkTitleBar" value="true" />
+    <option name="arrowsStyle" value="Plus-Minus" />
   </component>
 </application>
