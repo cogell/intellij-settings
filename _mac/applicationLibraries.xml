@@ -1640,6 +1640,15 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/crass-1.0.2/lib" />
       </SOURCES>
     </library>
+    <library name="createsend (v4.1.0, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/createsend-4.1.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/createsend-4.1.0/lib" />
+      </SOURCES>
+    </library>
     <library name="css_parser (v1.5.0, rbenv: 2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/css_parser-1.5.0/lib" />
@@ -3016,6 +3025,17 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/hp-devtools-2.3.3/lib" />
       </SOURCES>
     </library>
+    <library name="hp-devtools (v2.4.0, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/hp-devtools-2.4.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/hp-devtools-2.4.0/bin" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/hp-devtools-2.4.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/hp-devtools-2.4.0/bin" />
+      </SOURCES>
+    </library>
     <library name="html2haml (v2.0.0, rbenv: 2.1.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.0/lib/ruby/gems/2.1.0/gems/html2haml-2.0.0/bin" />
@@ -3754,6 +3774,15 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/koala-2.4.0/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/koala-2.4.0/autotest" />
+      </SOURCES>
+    </library>
+    <library name="koala (v3.0.0, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/koala-3.0.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/koala-3.0.0/lib" />
       </SOURCES>
     </library>
     <library name="kramdown (v1.8.0, rbenv: 2.2.4) [gem]">
