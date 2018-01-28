@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="config" type="Erlang" />
       <mapping pattern="products" type="PLAIN_TEXT" />
+      <mapping pattern=".env.orig" type="PLAIN_TEXT" />
       <mapping pattern="listing3" type="PLAIN_TEXT" />
       <mapping pattern=".env.sample" type="PLAIN_TEXT" />
       <mapping pattern=".env.test" type="PLAIN_TEXT" />
