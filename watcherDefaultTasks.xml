@@ -14,6 +14,7 @@
       </option>
       <option name="outputFromStdout" value="false" />
       <option name="program" value="$USER_HOME$/.nvm/versions/node/v6.9.3/bin/prettier" />
+      <option name="runOnExternalChanges" value="true" />
       <option name="scopeName" value="All Places" />
       <option name="trackOnlyRoot" value="false" />
       <option name="workingDir" value="$ProjectFileDir$" />
@@ -33,6 +34,7 @@
       </option>
       <option name="outputFromStdout" value="false" />
       <option name="program" value="$USER_HOME$/.nvm/versions/node/v6.10.3/bin/prettier" />
+      <option name="runOnExternalChanges" value="true" />
       <option name="scopeName" value="All Places" />
       <option name="trackOnlyRoot" value="false" />
       <option name="workingDir" value="$ProjectFileDir$" />
@@ -52,9 +54,30 @@
       </option>
       <option name="outputFromStdout" value="false" />
       <option name="program" value="$USER_HOME$/projects/gospace/bin/goimports" />
+      <option name="runOnExternalChanges" value="true" />
       <option name="scopeName" value="Current File" />
       <option name="trackOnlyRoot" value="false" />
       <option name="workingDir" value="" />
+      <envs />
+    </TaskOptions>
+    <TaskOptions isEnabled="false">
+      <option name="arguments" value="--single-quote --trailing-comma all --write $FilePath$" />
+      <option name="checkSyntaxErrors" value="true" />
+      <option name="description" />
+      <option name="exitCodeBehavior" value="ERROR" />
+      <option name="fileExtension" value="js" />
+      <option name="immediateSync" value="true" />
+      <option name="name" value="Prettier" />
+      <option name="output" value="" />
+      <option name="outputFilters">
+        <array />
+      </option>
+      <option name="outputFromStdout" value="false" />
+      <option name="program" value="prettier" />
+      <option name="runOnExternalChanges" value="true" />
+      <option name="scopeName" value="Current File" />
+      <option name="trackOnlyRoot" value="false" />
+      <option name="workingDir" value="$ProjectFileDir$" />
       <envs />
     </TaskOptions>
   </component>
