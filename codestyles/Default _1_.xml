@@ -9,6 +9,7 @@
   <option name="RIGHT_MARGIN" value="100" />
   <JSCodeStyleSettings>
     <option name="OBJECT_LITERAL_WRAP" value="2" />
+    <option name="IMPORT_SORT_MODULE_NAME" value="true" />
     <option name="IMPORT_PREFER_ABSOLUTE_PATH" value="TRUE" />
   </JSCodeStyleSettings>
   <MarkdownNavigatorCodeStyleSettings>
