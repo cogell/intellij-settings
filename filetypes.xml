@@ -2,14 +2,17 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="config" type="Erlang" />
-      <mapping pattern=".gitignore_global" type="Git file" />
-      <mapping pattern=".env.sample" type="PLAIN_TEXT" />
-      <mapping pattern="Procfile" type="PLAIN_TEXT" />
-      <mapping pattern=".env.test" type="PLAIN_TEXT" />
-      <mapping pattern="listing3" type="PLAIN_TEXT" />
-      <mapping pattern=".env.orig" type="PLAIN_TEXT" />
+      <mapping pattern=".hyperlayout" type="JSON" />
       <mapping pattern="products" type="PLAIN_TEXT" />
+      <mapping pattern=".env.orig" type="PLAIN_TEXT" />
+      <mapping pattern="recency}" type="PLAIN_TEXT" />
+      <mapping pattern="listing3" type="PLAIN_TEXT" />
+      <mapping pattern="news," type="PLAIN_TEXT" />
+      <mapping pattern=".env.test" type="PLAIN_TEXT" />
+      <mapping pattern="Procfile" type="PLAIN_TEXT" />
+      <mapping pattern=".env.sample" type="PLAIN_TEXT" />
       <mapping ext="gotest" type="PLAIN_TEXT" />
+      <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
   </component>
 </application>
