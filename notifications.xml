@@ -1,0 +1,5 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Ruby Module Manager" displayType="NONE" />
+  </component>
+</application>
