@@ -25,13 +25,16 @@
   </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.NewFolder" />
+  <action id="FileChooser.TogglePathShowing" />
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="shift ctrl f" />
     <keyboard-shortcut first-keystroke="shift meta f" />
   </action>
   <action id="GotoChangedFile" />
   <action id="GotoClass" />
-  <action id="GotoFile" />
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="meta p" />
+  </action>
   <action id="GotoTest" />
   <action id="Images.ShowThumbnails" />
   <action id="NewElement">
@@ -47,6 +50,7 @@
     <keyboard-shortcut first-keystroke="ctrl right" />
     <keyboard-shortcut first-keystroke="ctrl tab" />
   </action>
+  <action id="ParameterInfo" />
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="ctrl left" />
     <keyboard-shortcut first-keystroke="shift ctrl tab" />
