@@ -6,7 +6,5 @@
     <entry key="SBT.system.in.process" value="true" />
     <entry key="ide.completion.lookup.element.preselect.depends.on.context" value="false" />
     <entry key="ide.tooltip.initialDelay" value="562" />
-    <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
-    <entry key="bigger.font.in.project.view" value="true" />
   </component>
 </application>
