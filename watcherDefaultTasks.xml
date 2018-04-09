@@ -20,22 +20,22 @@
       <option name="workingDir" value="$ProjectFileDir$" />
       <envs />
     </TaskOptions>
-    <TaskOptions isEnabled="false">
-      <option name="arguments" value="--single-quote --trailing-comma all --write $FilePath$" />
+    <TaskOptions isEnabled="true">
+      <option name="arguments" value="--write $FilePathRelativeToProjectRoot$" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
       <option name="exitCodeBehavior" value="ERROR" />
       <option name="fileExtension" value="js" />
       <option name="immediateSync" value="false" />
       <option name="name" value="prettier" />
-      <option name="output" value="" />
+      <option name="output" value="$FilePathRelativeToProjectRoot$" />
       <option name="outputFilters">
         <array />
       </option>
       <option name="outputFromStdout" value="false" />
-      <option name="program" value="$USER_HOME$/.nvm/versions/node/v6.10.3/bin/prettier" />
+      <option name="program" value="$USER_HOME$/projects/hansel-invest/client/node_modules/.bin/prettier" />
       <option name="runOnExternalChanges" value="true" />
-      <option name="scopeName" value="All Places" />
+      <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="false" />
       <option name="workingDir" value="$ProjectFileDir$" />
       <envs />
