@@ -1,36 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="File '.../App/UI/Entry/Component.js [HPReactApp]'" />
+    <option name="defaultScopeName" value="File '.../App/UI/Entry/Component.js [HPReactApp]'" />
     <option name="regularExpressions" value="true" />
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.as</mask>
-      <mask>*.mxml</mask>
-      <mask>*.scsscss</mask>
-      <mask>*.scssss</mask>
-      <mask>*.scsss</mask>
-      <mask>*.s</mask>
-      <mask>*.sc</mask>
-      <mask>*.scs</mask>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
-      <mask>*.</mask>
-      <mask>*.c</mask>
-      <mask>*.cs</mask>
-      <mask>*.css</mask>
-      <mask>*.scss</mask>
-      <mask>*.p</mask>
-      <mask>*.pn</mask>
-      <mask>*.png</mask>
-    </recentFileMasks>
+    <option name="SEARCH_SCOPE" value="File '.../App/UI/Entry/Component.js [HPReactApp]'" />
   </component>
 </application>
