@@ -22,7 +22,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>315</Count>
+          <Count>333</Count>
         </Item>
       </Statistic>
       <Statistic Action="Edit Source">
@@ -94,7 +94,7 @@
           <IdeaActionID>GotoTypeDeclaration</IdeaActionID>
           <ShortCut>'⌃⇧B' or '⇧⌘Button1 Click' or '⇧Button2 Click'</ShortCut>
           <Description>Type Declaration</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
     </option>
