@@ -3,18 +3,19 @@
     <extensionMap>
       <mapping ext="config" type="Erlang" />
       <mapping pattern=".hyperlayout" type="JSON" />
-      <mapping pattern="news," type="PLAIN_TEXT" />
-      <mapping pattern="listing3" type="PLAIN_TEXT" />
-      <mapping pattern=".env.orig" type="PLAIN_TEXT" />
-      <mapping pattern="recency}" type="PLAIN_TEXT" />
-      <mapping pattern=".env.sample" type="PLAIN_TEXT" />
-      <mapping pattern="products" type="PLAIN_TEXT" />
       <mapping pattern=".ocamlinit" type="PLAIN_TEXT" />
-      <mapping pattern="ccogell13" type="PLAIN_TEXT" />
+      <mapping pattern="products" type="PLAIN_TEXT" />
       <mapping pattern=".env.test" type="PLAIN_TEXT" />
+      <mapping pattern=".env.orig" type="PLAIN_TEXT" />
+      <mapping pattern="listing3" type="PLAIN_TEXT" />
+      <mapping pattern="news," type="PLAIN_TEXT" />
+      <mapping pattern="ccogell13" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern=".zshrc" type="PLAIN_TEXT" />
+      <mapping pattern=".env.sample" type="PLAIN_TEXT" />
+      <mapping pattern="recency}" type="PLAIN_TEXT" />
       <mapping ext="gotest" type="PLAIN_TEXT" />
+      <mapping ext="snap" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
       <mapping ext="mjml" type="XML" />
       <mapping pattern=".gitignore_global" type="Git file" />
