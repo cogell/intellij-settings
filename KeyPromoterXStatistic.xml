@@ -9,6 +9,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Copy Path">
+        <Item>
+          <IdeaActionID>CopyPaths</IdeaActionID>
+          <ShortCut>'⇧⌘C'</ShortCut>
+          <Description>Copy Path</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'attach to chrome'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -22,7 +30,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>508</Count>
+          <Count>545</Count>
         </Item>
       </Statistic>
       <Statistic Action="Edit Source">
