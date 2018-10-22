@@ -15,6 +15,7 @@
       <mapping pattern=".zshrc" type="PLAIN_TEXT" />
       <mapping pattern=".env.sample" type="PLAIN_TEXT" />
       <mapping pattern="recency}" type="PLAIN_TEXT" />
+      <mapping ext="aar" type="PLAIN_TEXT" />
       <mapping ext="gotest" type="PLAIN_TEXT" />
       <mapping ext="snap" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
