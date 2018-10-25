@@ -81,6 +81,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Recent Find Usages">
+        <Item>
+          <IdeaActionID>UsageView.ShowRecentFindUsages</IdeaActionID>
+          <ShortCut>'⌘E'</ShortCut>
+          <Description>Recent Find Usages</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Restore Windows">
         <Item>
           <IdeaActionID>HideAllWindows</IdeaActionID>
