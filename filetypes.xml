@@ -5,16 +5,17 @@
       <mapping pattern=".hyperlayout" type="JSON" />
       <mapping pattern=".ocamlinit" type="PLAIN_TEXT" />
       <mapping pattern="products" type="PLAIN_TEXT" />
-      <mapping pattern=".env.test" type="PLAIN_TEXT" />
       <mapping pattern=".env.orig" type="PLAIN_TEXT" />
+      <mapping pattern=".nowignore" type="PLAIN_TEXT" />
       <mapping pattern="listing3" type="PLAIN_TEXT" />
-      <mapping pattern="news," type="PLAIN_TEXT" />
+      <mapping pattern=".env.test" type="PLAIN_TEXT" />
       <mapping pattern="ccogell13" type="PLAIN_TEXT" />
       <mapping pattern=".bablerc" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern=".zshrc" type="PLAIN_TEXT" />
       <mapping pattern=".env.sample" type="PLAIN_TEXT" />
       <mapping pattern="recency}" type="PLAIN_TEXT" />
+      <mapping pattern="news," type="PLAIN_TEXT" />
       <mapping ext="aar" type="PLAIN_TEXT" />
       <mapping ext="gotest" type="PLAIN_TEXT" />
       <mapping ext="snap" type="PLAIN_TEXT" />
