@@ -49,6 +49,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Go to next highlighted element usage">
+        <Item>
+          <IdeaActionID>GotoNextElementUnderCaretUsage</IdeaActionID>
+          <ShortCut>'⌥Wheel down'</ShortCut>
+          <Description>Go to next highlighted element usage</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="GoTo">
         <Item>
           <IdeaActionID>GotoDeclaration</IdeaActionID>
