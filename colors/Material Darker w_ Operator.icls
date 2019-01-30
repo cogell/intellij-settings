@@ -4,12 +4,12 @@
     <property name="created">2018-01-24T12:25:06</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.3.2.0.0</property>
-    <property name="modified">2018-01-24T14:24:17</property>
+    <property name="modified">2019-01-30T15:19:01</property>
     <property name="originalScheme">_@user_Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <font>
-    <option name="EDITOR_FONT_NAME" value="Operator Mono" />
+    <option name="EDITOR_FONT_NAME" value="Operator Mono Lig" />
     <option name="EDITOR_FONT_SIZE" value="14" />
   </font>
   <font>
@@ -139,12 +139,6 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="BASH.FUNCTION_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
-    <option name="BASH.HERE_DOC" baseAttributes="DEFAULT_STRING" />
-    <option name="BASH.HERE_DOC_END" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="BASH.HERE_DOC_START" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="BASH.REDIRECTION" baseAttributes="DEFAULT_OPERATION_SIGN" />
-    <option name="BASH.SHEBANG" baseAttributes="BASH.LINE_COMMENT" />
     <option name="BLADE_BAD_CHARACTER">
       <value>
         <option name="EFFECT_COLOR" value="ff5370" />
@@ -3280,7 +3274,6 @@
         <option name="FOREGROUND" value="c3e88d" />
       </value>
     </option>
-    <option name="SASS_COMMENT" baseAttributes="CSS.COMMENT" />
     <option name="SASS_MIXIN">
       <value>
         <option name="FOREGROUND" value="82aaff" />
@@ -3297,20 +3290,6 @@
         <option name="BACKGROUND" value="323232" />
       </value>
     </option>
-    <option name="SLIM_CALL" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="SLIM_CLASS" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="SLIM_COMMENT" baseAttributes="DEFAULT_DOC_COMMENT" />
-    <option name="SLIM_DOCTYPE_KWD" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="SLIM_FILTER" baseAttributes="DEFAULT_LABEL" />
-    <option name="SLIM_FILTER_CONTENT" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
-    <option name="SLIM_INTERPOLATION" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="SLIM_PARENTHS" baseAttributes="DEFAULT_PARENTHS" />
-    <option name="SLIM_RUBY_CODE" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
-    <option name="SLIM_STATIC_CONTENT" baseAttributes="TEXT" />
-    <option name="SLIM_STRING_INTERPOLATED" baseAttributes="DEFAULT_STRING" />
-    <option name="SLIM_TAG" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="SLIM_TAG_ATTR_KEY" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="SLIM_TAG_START" baseAttributes="DEFAULT_KEYWORD" />
     <option name="SQL_SYNTHETIC_ENTITY" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
     <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
       <value>
